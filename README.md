@@ -10,7 +10,7 @@
 
 （3）编写的用例使用Allure工具生成测试（添加日志，截图）
 
-   ![img.png](img.png)
+   ![](screenshot-3.png)
 
 
 
