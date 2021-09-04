@@ -28,7 +28,6 @@ class TestAddMember:
         # addmember.add_member()
         # name_list = contact.get_members()
         # 实际结果是否在预期结果内
-        # assert "13650007008" in phone_list
-        assert False
+        assert "13650007008" in phone_list
 
 
